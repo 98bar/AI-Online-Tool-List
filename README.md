@@ -9,6 +9,7 @@ AI工具列表-在线工具列表-包含可用chatGPT镜像网站
 - 😀百度文心一言：https://yiyan.baidu.com/
 - 😀ChatGPT（官网，需要魔法）：https://chat.openai.com/
 - 😀Open Assistant：https://open-assistant.io/
+- 😀ChatGPT3.5镜像：https://www.chaosu.vip/
 - 😀ChatGPT3.5镜像：https://chat3.aichatos.com/
 - 😀ChatGPT3.5镜像：https://dev.yqcloud.top/
 - 😀ChatGPT3.5镜像：https://chatbot.theb.ai/
@@ -31,6 +32,7 @@ AI工具列表-在线工具列表-包含可用chatGPT镜像网站
 
 # 文档
 
+- 📕谷歌学术：https://scholar.google.com/
 - 📕鸠摩搜索：https://www.jiumodiary.com/
 - 📕SCI-HUB：https://www.sci-hub.ren/
 - 📕淘链客 (资源聚合搜索)：https://www.toplinks.cc/s/
