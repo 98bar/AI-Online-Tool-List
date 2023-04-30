@@ -43,6 +43,7 @@ AI工具列表-在线工具列表-包含可用chatGPT镜像网站
 - 📸生成简洁有艺术的二维码：https://qrbtf.com/
 - 📸图片在线压缩：https://tinypng.com/
 - 📸视频在线压缩：https://compress-video-online.com/zh
+- 📸PDF文档压缩：https://tools.pdf24.org/
 
 # 其它
 
