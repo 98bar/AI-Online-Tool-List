@@ -1,8 +1,8 @@
-博客页面：https://smiler666.github.io/tools/
+博客页面：https://smiler666.github.io/post/share-1/
 
 AI工具列表-在线工具列表-包含可用chatGPT镜像网站
 
-# AI新技术
+# AI
 
 
 - 😀New Bing（需要魔法）：https://www.bing.com/new
