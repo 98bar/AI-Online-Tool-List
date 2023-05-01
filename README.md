@@ -11,7 +11,6 @@ AI工具列表-在线工具列表-包含可用chatGPT镜像网站
 - 😀Open Assistant：https://open-assistant.io/
 - 😀ChatGPT3.5镜像：https://chat3.aichatos.com/
 - 😀ChatGPT3.5镜像：https://dev.yqcloud.top/
-- 😀ChatGPT3.5镜像：https://chatbot.theb.ai/
 - 😀ChatGPT3.5镜像：https://chat1.binjie.site:7777/
 - 😀ChatGPT3.5镜像：http://choiajsd.aichatos.com/
 - 😀ChatGPT3.5镜像（不支持连续对话）：https://chat.aidutu.cn/
