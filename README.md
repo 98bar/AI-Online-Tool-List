@@ -8,6 +8,8 @@ AI工具列表-在线工具列表-包含可用chatGPT镜像网站
 - 😀New Bing（需要魔法）：https://www.bing.com/new
 - 😀百度文心一言：https://yiyan.baidu.com/
 - 😀ChatGPT（官网，需要魔法）：https://chat.openai.com/
+- 😀Forefront（体验GPT-4）：https://chat.forefront.ai/
+- 😀YouBot（good search）：https://you.com/
 - 😀Open Assistant：https://open-assistant.io/
 - 😀ChatGPT3.5镜像：https://chat3.aichatos.com/
 - 😀ChatGPT3.5镜像：https://chat.jinshutuan.com/
