@@ -30,6 +30,7 @@ AI工具列表-在线工具列表-包含可用chatGPT镜像网站
 
 - 💻m1907云加速播放器：https://im1907.top/
 - 💻视频解析下载：https://bilibili.iiilab.com/
+- 💻视频字幕下载：https://downsub.com/
 
 # 文档
 
