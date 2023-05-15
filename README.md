@@ -26,6 +26,9 @@ AI工具列表-在线工具列表-包含可用chatGPT镜像网站
 - 😀视频/图片转换为漫画风格：https://huggingface.co/spaces/akhaliq/AnimeGANv2
 - 😀自动从图上扣去不需要的元素：https://magicstudio.com/magiceraser
 - 😀周报通，自动生成周报：https://zhoubaotong.com/zh
+- 😀BibiGPT（B站视频总结）：https://b.jimmylv.cn/
+- 😀Deepl写作：https://www.deepl.com/zh/write
+- 😀AI知识库：https://ssw9noe1h6.feishu.cn/wiki/wikcn59pPXfAiF1ONajdPzvhA9d
 
 # 视频
 
