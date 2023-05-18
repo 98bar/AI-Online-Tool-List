@@ -20,6 +20,7 @@ AI工具列表-在线工具列表-包含可用chatGPT镜像网站
 - 😀ChatGPT3.5镜像（不支持连续对话）：https://chat.aidutu.cn/
 - 😀Poe镜像（需要魔法）：https://poe.com/
 - 😀阿里通义千问：https://tongyi.aliyun.com/
+- 😀讯飞星火认知大模型：https://xinghuo.xfyun.cn/
 - 😀chatPDF文献总结（需要魔法）：https://www.chatpdf.com/
 - 😀生成卡通头像：https://getavataaars.com/
 - 😀封面在线制作：https://figen.cc/
