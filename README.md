@@ -48,6 +48,7 @@ AI工具列表-在线工具列表-包含可用chatGPT镜像网站
 
 # 图片
 
+- 📸腾讯ARC图片处理工具：https://arc.tencent.com/zh/ai-demos/faceRestoration
 - 📸GIF动态图片生成：https://ezgif.com/
 - 📸生成简洁有艺术的二维码：https://qrbtf.com/
 - 📸图片在线压缩：https://tinypng.com/
