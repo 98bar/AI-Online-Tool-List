@@ -11,6 +11,7 @@ AI工具列表-在线工具列表-包含可用chatGPT镜像网站
 - 😀Google Bard：https://bard.google.com/
 - 😀Forefront（体验GPT-4）：https://chat.forefront.ai/
 - 😀YouBot（good search）：https://you.com/
+- 😀DeepAI：https://deepai.org/chat
 - 😀Open Assistant：https://open-assistant.io/
 - 😀ChatGPT3.5镜像：https://chat3.aichatos.com/
 - 😀ChatGPT3.5镜像：https://chat.jinshutuan.com/
