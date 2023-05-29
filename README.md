@@ -46,6 +46,7 @@ AI工具列表-在线工具列表-包含可用chatGPT镜像网站
 - 📕Scidown：https://www.scidown.cn/
 - 📕淘链客 (资源聚合搜索)：https://www.toplinks.cc/s/
 - 📕学搜搜网盘搜索：https://www.xuesousou.com/ 备用：[www.xuesousou.net](https://www.xuesousou.net/)
+- 📕Convertio文档转换器：https://convertio.co/zh/
 
 # 图片
 
