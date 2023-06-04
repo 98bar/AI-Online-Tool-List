@@ -2,7 +2,7 @@
 
 AI工具列表-在线工具列表-包含可用chatGPT镜像网站
 
-# AI
+# AI对话
 
 
 - 😀New Bing（需要魔法）：https://www.bing.com/new
@@ -22,23 +22,21 @@ AI工具列表-在线工具列表-包含可用chatGPT镜像网站
 - 😀Poe镜像（需要魔法）：https://poe.com/
 - 😀阿里通义千问：https://tongyi.aliyun.com/
 - 😀讯飞星火认知大模型：https://xinghuo.xfyun.cn/
-- 😀chatPDF文献总结（需要魔法）：https://www.chatpdf.com/
-- 😀生成卡通头像：https://getavataaars.com/
-- 😀封面在线制作：https://figen.cc/
-- 😀视频/图片转换为漫画风格：https://huggingface.co/spaces/akhaliq/AnimeGANv2
-- 😀自动从图上扣去不需要的元素：https://magicstudio.com/magiceraser
-- 😀周报通，自动生成周报：https://zhoubaotong.com/zh
-- 😀BibiGPT（B站视频总结）：https://b.jimmylv.cn/
-- 😀Deepl写作：https://www.deepl.com/zh/write
-- 😀AI知识库：https://ssw9noe1h6.feishu.cn/wiki/wikcn59pPXfAiF1ONajdPzvhA9d
 
 # 视频
 
 - 💻m1907云加速播放器：https://im1907.top/
 - 💻视频解析下载：https://bilibili.iiilab.com/
 - 💻视频字幕下载：https://downsub.com/
+- 💻BibiGPT（B站视频总结）：https://b.jimmylv.cn/
 
 # 文档
+
+- 📕ChatPDF文献总结（需要魔法）：https://www.chatpdf.com/
+- 📕Convertio文档转换器：https://convertio.co/zh/
+- 📕PDF文档压缩：https://tools.pdf24.org/
+
+# 搜索
 
 - 📕谷歌学术：https://scholar.google.com/
 - 📕鸠摩搜索：https://www.jiumodiary.com/
@@ -46,7 +44,6 @@ AI工具列表-在线工具列表-包含可用chatGPT镜像网站
 - 📕Scidown：https://www.scidown.cn/
 - 📕淘链客 (资源聚合搜索)：https://www.toplinks.cc/s/
 - 📕学搜搜网盘搜索：https://www.xuesousou.com/ 备用：[www.xuesousou.net](https://www.xuesousou.net/)
-- 📕Convertio文档转换器：https://convertio.co/zh/
 
 # 图片
 
@@ -55,14 +52,26 @@ AI工具列表-在线工具列表-包含可用chatGPT镜像网站
 - 📸生成简洁有艺术的二维码：https://qrbtf.com/
 - 📸图片在线压缩：https://tinypng.com/
 - 📸视频在线压缩：https://compress-video-online.com/zh
-- 📸PDF文档压缩：https://tools.pdf24.org/
+- 📸生成卡通头像：https://getavataaars.com/
+- 📸封面在线制作：https://figen.cc/
+- 📸视频/图片转换为漫画风格：https://huggingface.co/spaces/akhaliq/AnimeGANv2
+- 📸自动从图上扣去不需要的元素：https://magicstudio.com/magiceraser
+- 📸免费高清无版权图库：https://unsplash.com/
+- 📸IconPark（设计师图标素材库）：https://iconpark.oceanengine.com/home
+- 📸游戏动漫图库：https://www.ggac.com/
+
+# 写作
+
+
+- 🖍周报通（自动生成周报）：https://zhoubaotong.com/zh
+- 🖍Deepl写作：https://www.deepl.com/zh/write
+- 🖍Notion写作：https://www.notion.so/product/ai
 
 # 其它
 
 - 📓匿名文件上传：https://ufile.io/
 - 📓临时教育邮箱：https://mail.mjj.edu.ge/?btwaf=87560988
-- 📓免费高清无版权图库：https://unsplash.com/
-- 📓游戏动漫图库：https://www.ggac.com/
 - 📓谷歌数据搜索：https://datasetsearch.research.google.com/
 - 📓默沙东诊疗手册：https://www.msdmanuals.cn/home
 - 📓Github代码全文搜索：https://grep.app/
+- 📓AI知识库：https://ssw9noe1h6.feishu.cn/wiki/wikcn59pPXfAiF1ONajdPzvhA9d
