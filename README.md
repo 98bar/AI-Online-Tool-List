@@ -38,12 +38,12 @@ AI工具列表-在线工具列表-包含可用chatGPT镜像网站
 
 # 搜索
 
-- 📕谷歌学术：https://scholar.google.com/
-- 📕鸠摩搜索：https://www.jiumodiary.com/
-- 📕SCI-HUB：https://www.sci-hub.ren/
-- 📕Scidown：https://www.scidown.cn/
-- 📕淘链客 (资源聚合搜索)：https://www.toplinks.cc/s/
-- 📕学搜搜网盘搜索：https://www.xuesousou.com/ 备用：[www.xuesousou.net](https://www.xuesousou.net/)
+- 🔎谷歌学术：https://scholar.google.com/
+- 🔎鸠摩搜索：https://www.jiumodiary.com/
+- 🔎SCI-HUB：https://www.sci-hub.ren/
+- 🔎Scidown：https://www.scidown.cn/
+- 🔎淘链客 (资源聚合搜索)：https://www.toplinks.cc/s/
+- 🔎学搜搜网盘搜索：https://www.xuesousou.com/ 备用：[www.xuesousou.net](https://www.xuesousou.net/)
 
 # 图片
 
