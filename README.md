@@ -6,9 +6,10 @@ AI工具列表-在线工具列表-包含可用chatGPT镜像网站
 
 
 - 😀New Bing（需要魔法）：https://www.bing.com/new
-- 😀百度文心一言：https://yiyan.baidu.com/
 - 😀ChatGPT（官网，需要魔法）：https://chat.openai.com/
 - 😀Google Bard：https://bard.google.com/
+- 😀百度文心一言：https://yiyan.baidu.com/
+- 😀讯飞星火认知大模型：https://xinghuo.xfyun.cn/
 - 😀Forefront（体验GPT-4）：https://chat.forefront.ai/
 - 😀YouBot（good search）：https://you.com/
 - 😀DeepAI：https://deepai.org/chat
@@ -21,7 +22,7 @@ AI工具列表-在线工具列表-包含可用chatGPT镜像网站
 - 😀ChatGPT3.5镜像（不支持连续对话）：https://chat.aidutu.cn/
 - 😀Poe镜像（需要魔法）：https://poe.com/
 - 😀阿里通义千问：https://tongyi.aliyun.com/
-- 😀讯飞星火认知大模型：https://xinghuo.xfyun.cn/
+- 😀AI搜索，它只能告诉你答案：https://www.perplexity.ai/
 
 # 视频
 
@@ -29,12 +30,14 @@ AI工具列表-在线工具列表-包含可用chatGPT镜像网站
 - 💻视频解析下载：https://bilibili.iiilab.com/
 - 💻视频字幕下载：https://downsub.com/
 - 💻BibiGPT（B站视频总结）：https://b.jimmylv.cn/
+- 💻Midjourney（AI绘画）：https://www.midjourney.com/
 
 # 文档
 
 - 📕ChatPDF文献总结（需要魔法）：https://www.chatpdf.com/
 - 📕Convertio文档转换器：https://convertio.co/zh/
 - 📕PDF文档压缩：https://tools.pdf24.org/
+- 📕ChatEXCEL：https://chatexcel.com/convert
 
 # 搜索
 
