@@ -10,19 +10,23 @@ AI工具列表-在线工具列表-包含可用chatGPT镜像网站
 - 😀Google Bard：https://bard.google.com/
 - 😀百度文心一言：https://yiyan.baidu.com/
 - 😀讯飞星火认知大模型：https://xinghuo.xfyun.cn/
+- 😀360智脑：https://ai.360.cn/
 - 😀Forefront（体验GPT-4）：https://chat.forefront.ai/
 - 😀YouBot（good search）：https://you.com/
 - 😀DeepAI：https://deepai.org/chat
 - 😀Open Assistant：https://open-assistant.io/
+- 😀Poe镜像（需要魔法）：https://poe.com/
+- 😀阿里通义千问：https://tongyi.aliyun.com/
+- 😀AI搜索，它只能告诉你答案：https://www.perplexity.ai/
+
+# ChatGPT镜像
+
 - 😀ChatGPT3.5镜像：https://chat3.aichatos.com/
 - 😀ChatGPT3.5镜像：https://chat.jinshutuan.com/
 - 😀ChatGPT3.5镜像：https://dev.yqcloud.top/
 - 😀ChatGPT3.5镜像：https://chat1.binjie.site:7777/
 - 😀ChatGPT3.5镜像：http://choiajsd.aichatos.com/
 - 😀ChatGPT3.5镜像（不支持连续对话）：https://chat.aidutu.cn/
-- 😀Poe镜像（需要魔法）：https://poe.com/
-- 😀阿里通义千问：https://tongyi.aliyun.com/
-- 😀AI搜索，它只能告诉你答案：https://www.perplexity.ai/
 
 # 视频
 
