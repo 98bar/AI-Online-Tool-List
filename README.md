@@ -9,6 +9,7 @@ AI工具列表-在线工具列表-包含可用chatGPT镜像网站
 - 😀ChatGPT（官网，需要魔法）：https://chat.openai.com/
 - 😀Google Bard：https://bard.google.com/
 - 😀百度文心一言：https://yiyan.baidu.com/
+- 😀百度文心一格：https://yige.baidu.com/
 - 😀讯飞星火认知大模型：https://xinghuo.xfyun.cn/
 - 😀360智脑：https://ai.360.cn/
 - 😀Forefront（体验GPT-4）：https://chat.forefront.ai/
@@ -17,6 +18,7 @@ AI工具列表-在线工具列表-包含可用chatGPT镜像网站
 - 😀Open Assistant：https://open-assistant.io/
 - 😀Poe镜像（需要魔法）：https://poe.com/
 - 😀阿里通义千问：https://tongyi.aliyun.com/
+- 😀商量大语言模型：https://chat.sensetime.com/
 - 😀AI搜索，它只能告诉你答案：https://www.perplexity.ai/
 
 # ChatGPT镜像
@@ -73,6 +75,7 @@ AI工具列表-在线工具列表-包含可用chatGPT镜像网站
 - 🖍周报通（自动生成周报）：https://zhoubaotong.com/zh
 - 🖍Deepl写作：https://www.deepl.com/zh/write
 - 🖍Notion写作：https://www.notion.so/product/ai
+- 🖍写作猫：https://xiezuocat.com/
 
 # 其它
 
@@ -81,4 +84,6 @@ AI工具列表-在线工具列表-包含可用chatGPT镜像网站
 - 📓谷歌数据搜索：https://datasetsearch.research.google.com/
 - 📓默沙东诊疗手册：https://www.msdmanuals.cn/home
 - 📓Github代码全文搜索：https://grep.app/
+- 📓GitHub Copilot：https://github.com/features/copilot
 - 📓AI知识库：https://ssw9noe1h6.feishu.cn/wiki/wikcn59pPXfAiF1ONajdPzvhA9d
+- 📓CodeGeex编程：https://codegeex.cn/zh-CN/
