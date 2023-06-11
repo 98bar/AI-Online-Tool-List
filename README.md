@@ -1,6 +1,6 @@
-博客页面：https://smiler666.github.io/post/share-1/
+汇总整理了可用的AI工具列表、免费chatGPT镜像网站、在线工具列表，包含可用chatGPT镜像网站。
 
-AI工具列表-在线工具列表-包含可用chatGPT镜像网站
+博客页面：https://smiler666.github.io/post/share-1/
 
 # AI对话
 
@@ -28,6 +28,8 @@ AI工具列表-在线工具列表-包含可用chatGPT镜像网站
 - 😀ChatGPT3.5镜像：https://dev.yqcloud.top/
 - 😀ChatGPT3.5镜像：https://chat1.binjie.site:7777/
 - 😀ChatGPT3.5镜像：http://choiajsd.aichatos.com/
+- 😀ChatGPT3.5镜像：https://chat.wobcw.com/
+- 😀ChatGPT3.5镜像：https://chat.waixingyun.cn/#/home
 - 😀ChatGPT3.5镜像（不支持连续对话）：https://chat.aidutu.cn/
 
 # 视频
