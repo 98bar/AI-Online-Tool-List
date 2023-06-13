@@ -62,6 +62,7 @@
 - 📸GIF动态图片生成：https://ezgif.com/
 - 📸生成简洁有艺术的二维码：https://qrbtf.com/
 - 📸图片在线压缩：https://tinypng.com/
+- 📸图片在线压缩：https://www.websiteplanet.com/zh-hans/webtools/imagecompressor/
 - 📸视频在线压缩：https://compress-video-online.com/zh
 - 📸生成卡通头像：https://getavataaars.com/
 - 📸封面在线制作：https://figen.cc/
