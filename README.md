@@ -1,8 +1,8 @@
-汇总整理了可用的AI工具列表、免费chatGPT镜像网站、在线工具列表，包含可用chatGPT镜像网站。
+汇总整理了可用的AI工具列表、免费chatGPT镜像网站、在线工具列表，包含可用chatGPT镜像网站，欢迎star。
 
-博客页面：https://smiler666.github.io/post/share-1/
+博客页面：https://smiler666.github.io/tools/
 
-# AI对话
+# 1.AI对话
 
 
 - 😀New Bing（需要魔法）：https://www.bing.com/new
@@ -21,7 +21,7 @@
 - 😀商量大语言模型：https://chat.sensetime.com/
 - 😀AI搜索，它只能告诉你答案：https://www.perplexity.ai/
 
-# ChatGPT镜像
+# 2.ChatGPT镜像
 
 - 😀ChatGPT3.5镜像：https://chat3.aichatos.com/
 - 😀ChatGPT3.5镜像：https://chat.jinshutuan.com/
@@ -32,7 +32,7 @@
 - 😀ChatGPT3.5镜像：https://chat.waixingyun.cn/#/home
 - 😀ChatGPT3.5镜像（不支持连续对话）：https://chat.aidutu.cn/
 
-# 视频
+# 3.视频
 
 - 💻m1907云加速播放器：https://im1907.top/
 - 💻视频解析下载：https://bilibili.iiilab.com/
@@ -40,14 +40,14 @@
 - 💻BibiGPT（B站视频总结）：https://b.jimmylv.cn/
 - 💻Midjourney（AI绘画）：https://www.midjourney.com/
 
-# 文档
+# 4.文档
 
 - 📕ChatPDF文献总结（需要魔法）：https://www.chatpdf.com/
 - 📕Convertio文档转换器：https://convertio.co/zh/
 - 📕PDF文档压缩：https://tools.pdf24.org/
 - 📕ChatEXCEL：https://chatexcel.com/convert
 
-# 搜索
+# 5.搜索
 
 - 🔎谷歌学术：https://scholar.google.com/
 - 🔎鸠摩搜索：https://www.jiumodiary.com/
@@ -56,7 +56,7 @@
 - 🔎淘链客 (资源聚合搜索)：https://www.toplinks.cc/s/
 - 🔎学搜搜网盘搜索：https://www.xuesousou.com/ 备用：[www.xuesousou.net](https://www.xuesousou.net/)
 
-# 图片
+# 6.图片
 
 - 📸腾讯ARC图片处理工具：https://arc.tencent.com/zh/ai-demos/faceRestoration
 - 📸GIF动态图片生成：https://ezgif.com/
@@ -72,7 +72,7 @@
 - 📸IconPark（设计师图标素材库）：https://iconpark.oceanengine.com/home
 - 📸游戏动漫图库：https://www.ggac.com/
 
-# 写作
+# 7.写作
 
 
 - 🖍周报通（自动生成周报）：https://zhoubaotong.com/zh
@@ -80,7 +80,7 @@
 - 🖍Notion写作：https://www.notion.so/product/ai
 - 🖍写作猫：https://xiezuocat.com/
 
-# 其它
+# 8.其它
 
 - 📓匿名文件上传：https://ufile.io/
 - 📓临时教育邮箱：https://mail.mjj.edu.ge/?btwaf=87560988
