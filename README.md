@@ -1,4 +1,4 @@
-该页面汇总整理了网络上可用的AI工具列表、免费chatGPT镜像网站、在线工具列表，包含可用chatGPT镜像网站，欢迎star。
+该页面汇总整理了网络上可用的AI工具、免费chatGPT镜像网站、在线工具，包含可用各种在线工具，工具导航，AI导航。欢迎star。
 
 发布页面：https://smiler666.github.io/tools/
 
@@ -24,6 +24,7 @@
 # 2.ChatGPT镜像
 
 - 😀ChatGPT3.5镜像：https://chat3.aichatos.com/
+- 😀ChatGPT3.5镜像：https://gpt.ai-vue.com/
 - 😀ChatGPT3.5镜像：https://chat.jinshutuan.com/
 - 😀ChatGPT3.5镜像：https://dev.yqcloud.top/
 - 😀ChatGPT3.5镜像：https://chat1.binjie.site:7777/
@@ -79,6 +80,7 @@
 - 🖍Deepl写作：https://www.deepl.com/zh/write
 - 🖍Notion写作：https://www.notion.so/product/ai
 - 🖍写作猫：https://xiezuocat.com/
+- 🖍火山写作：https://www.writingo.net/
 
 # 8.其它
 
