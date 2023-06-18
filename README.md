@@ -1,6 +1,6 @@
-汇总整理了可用的AI工具列表、免费chatGPT镜像网站、在线工具列表，包含可用chatGPT镜像网站，欢迎star。
+该页面汇总整理了网络上可用的AI工具列表、免费chatGPT镜像网站、在线工具列表，包含可用chatGPT镜像网站，欢迎star。
 
-博客页面：https://smiler666.github.io/tools/
+发布页面：https://smiler666.github.io/tools/
 
 # 1.AI对话
 
