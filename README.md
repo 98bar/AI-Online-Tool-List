@@ -31,7 +31,6 @@
 - 😀ChatGPT3.5镜像：http://choiajsd.aichatos.com/
 - 😀ChatGPT3.5镜像：https://chat.wobcw.com/
 - 😀ChatGPT3.5镜像：https://chat.waixingyun.cn/#/home
-- 😀ChatGPT3.5镜像（不支持连续对话）：https://chat.aidutu.cn/
 
 # 3.视频
 
