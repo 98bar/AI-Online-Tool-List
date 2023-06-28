@@ -1,6 +1,6 @@
 该页面汇总整理了网络上可用的AI工具、免费chatGPT镜像网站、在线工具，包含可用各种在线工具，工具导航，AI导航。欢迎star。
 
-发布页面：https://smiler666.github.io/tools/
+页面：https://smiler666.github.io/tools/
 
 # 1.AI对话
 
@@ -46,7 +46,8 @@
 - 📕ChatPDF文献总结（需要魔法）：https://www.chatpdf.com/
 - 📕Convertio文档转换器：https://convertio.co/zh/
 - 📕PDF文档压缩：https://tools.pdf24.org/
-- 📕ChatEXCEL：https://chatexcel.com/convert
+- 📕ChatExcel：https://chatexcel.com/convert
+- 📕PandaGPT（帮你阅读生成知识图谱）：https://www.pandagpt.io/
 
 # 5.搜索
 
