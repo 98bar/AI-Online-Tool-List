@@ -19,6 +19,7 @@
 - 😀Poe镜像（需要魔法）：https://poe.com/
 - 😀阿里通义千问：https://tongyi.aliyun.com/
 - 😀商量大语言模型：https://chat.sensetime.com/
+- 😀ChatGLM：https://chatglm.cn/
 - 😀AI搜索，它只能告诉你答案：https://www.perplexity.ai/
 
 # 2.ChatGPT镜像
