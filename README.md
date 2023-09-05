@@ -24,13 +24,11 @@
 
 # 2.ChatGPT镜像
 
-- 😀ChatGPT3.5镜像：https://chat3.aichatos.com/
+- 😀ChatGPT3.5镜像：https://c.binjie.fun/
 - 😀ChatGPT3.5镜像：https://gpt.ai-vue.com/
-- 😀ChatGPT3.5镜像：https://chat.jinshutuan.com/
+- 😀ChatGPT3.5镜像：https://cjrjo.aitianhu.ink/
 - 😀ChatGPT3.5镜像：https://dev.yqcloud.top/
-- 😀ChatGPT3.5镜像：https://chat1.binjie.site:7777/
-- 😀ChatGPT3.5镜像：http://choiajsd.aichatos.com/
-- 😀ChatGPT3.5镜像：https://chat.wobcw.com/
+- 😀ChatGPT3.5镜像：https://ai.minihuo.com/
 - 😀ChatGPT3.5镜像：https://chat.waixingyun.cn/#/home
 
 # 3.视频
