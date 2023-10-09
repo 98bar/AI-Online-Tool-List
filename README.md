@@ -32,12 +32,13 @@
 - 😀ChatGPT3.5镜像：https://ai.minihuo.com/
 - 😀ChatGPT3.5镜像：https://chat.waixingyun.cn/#/home
 
-# 3.视频
+# 3.视频、音乐
 
 - 💻电影狗（专业电影搜索引擎）：https://www.dianyinggou.com/
 - 💻m1907云加速播放器：https://im1907.top/
 - 💻视频解析下载：https://bilibili.iiilab.com/
 - 💻视频字幕下载：https://downsub.com/
+- 💻音乐解析下载：https://music.liuzhijin.cn/
 - 💻BibiGPT（B站视频总结）：https://b.jimmylv.cn/
 - 💻Midjourney（AI绘画）：https://www.midjourney.com/
 
