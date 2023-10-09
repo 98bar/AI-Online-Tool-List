@@ -24,6 +24,7 @@
 
 # 2.ChatGPT镜像
 
+- 😀EasyGPT：https://free.easychat.work
 - 😀ChatGPT3.5镜像：https://c.binjie.fun/
 - 😀ChatGPT3.5镜像：https://gpt.ai-vue.com/
 - 😀ChatGPT3.5镜像：https://cjrjo.aitianhu.ink/
@@ -33,6 +34,7 @@
 
 # 3.视频
 
+- 💻电影狗（专业电影搜索引擎）：https://www.dianyinggou.com/
 - 💻m1907云加速播放器：https://im1907.top/
 - 💻视频解析下载：https://bilibili.iiilab.com/
 - 💻视频字幕下载：https://downsub.com/
