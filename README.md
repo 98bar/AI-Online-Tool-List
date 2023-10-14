@@ -74,6 +74,7 @@
 - 📸免费高清无版权图库：https://unsplash.com/
 - 📸IconPark（设计师图标素材库）：https://iconpark.oceanengine.com/home
 - 📸游戏动漫图库：https://www.ggac.com/
+- 📸图片清晰度增强：https://www.upscale.media/zh/upload
 
 # 7.写作
 
