@@ -5,7 +5,7 @@
 # 1.AI对话
 
 
-- 😀New Bing（需要魔法）：https://www.bing.com/new
+- 😀Copilot（需要魔法，Edge浏览器打开）：https://www.bing.com/search?q=Bing+AI&showconv=1
 - 😀ChatGPT（官网，需要魔法）：https://chat.openai.com/
 - 😀Google Bard：https://bard.google.com/
 - 😀百度文心一言：https://yiyan.baidu.com/
