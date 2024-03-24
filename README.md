@@ -7,7 +7,7 @@
 
 - 😀Copilot（需要魔法，Edge浏览器打开）：https://www.bing.com/search?q=Bing+AI&showconv=1
 - 😀ChatGPT（官网，需要魔法）：https://chat.openai.com/
-- 😀Google Bard：https://bard.google.com/
+- 😀Google Gemini（需要魔法）：https://gemini.google.com/
 - 😀百度文心一言：https://yiyan.baidu.com/
 - 😀百度文心一格：https://yige.baidu.com/
 - 😀讯飞星火认知大模型：https://xinghuo.xfyun.cn/
