@@ -25,20 +25,23 @@
 # 2.ChatGPT镜像
 
 - 😀EasyGPT：https://free.easychat.work
-- 😀ChatGPT3.5镜像：https://c.binjie.fun/
-- 😀ChatGPT3.5镜像：https://gpt.ai-vue.com/
-- 😀ChatGPT3.5镜像：https://cjrjo.aitianhu.ink/
+- 😀ChatGPT3.5镜像：https://chat18.aichatos.xyz/#/chat/1714355769440
 - 😀ChatGPT3.5镜像：https://dev.yqcloud.top/
 - 😀ChatGPT3.5镜像：https://ai.minihuo.com/
 - 😀ChatGPT3.5镜像：https://chat.waixingyun.cn/#/home
+- 😀ChatGPT3.5镜像：https://6qhpnt.aitianhu1.top/#/chat/1002
+- 😀ChatGPT3.5镜像：https://chat.letdata.net/ichat
+- 😀ChatGPT3.5镜像：https://chatforai.store/
+- 😀ChatGPT3.5镜像：https://f1.001.lat/#/chat/1002
+- 😀ChatGPT3.5镜像：https://nx.chkzh.com/
 
-# 3.视频、音乐
+# 3.视频
 
 - 💻电影狗（专业电影搜索引擎）：https://www.dianyinggou.com/
 - 💻m1907云加速播放器：https://im1907.top/
+- 💻电影百度云资源搜索：https://ysxjjkl.souyisou.top/
 - 💻视频解析下载：https://bilibili.iiilab.com/
 - 💻视频字幕下载：https://downsub.com/
-- 💻音乐解析下载：https://music.liuzhijin.cn/
 - 💻BibiGPT（B站视频总结）：https://b.jimmylv.cn/
 - 💻Midjourney（AI绘画）：https://www.midjourney.com/
 
