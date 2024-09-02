@@ -12,6 +12,7 @@
 - 😀百度文心一格：https://yige.baidu.com/
 - 😀讯飞星火认知大模型：https://xinghuo.xfyun.cn/
 - 😀360智脑：https://ai.360.cn/
+- 😀腾讯混元：https://hunyuan.tencent.com/
 - 😀Forefront（体验GPT-4）：https://chat.forefront.ai/
 - 😀YouBot（good search）：https://you.com/
 - 😀DeepAI：https://deepai.org/chat
@@ -25,15 +26,13 @@
 # 2.ChatGPT镜像
 
 - 😀EasyGPT：https://free.easychat.work
-- 😀ChatGPT3.5镜像：https://chat18.aichatos.xyz/#/chat/1714355769440
-- 😀ChatGPT3.5镜像：https://dev.yqcloud.top/
-- 😀ChatGPT3.5镜像：https://ai.minihuo.com/
-- 😀ChatGPT3.5镜像：https://chat.waixingyun.cn/#/home
-- 😀ChatGPT3.5镜像：https://6qhpnt.aitianhu1.top/#/chat/1002
-- 😀ChatGPT3.5镜像：https://chat.letdata.net/ichat
-- 😀ChatGPT3.5镜像：https://chatforai.store/
-- 😀ChatGPT3.5镜像：https://f1.001.lat/#/chat/1002
-- 😀ChatGPT3.5镜像：https://nx.chkzh.com/
+- 😀ChatGPT镜像：https://chat18.aichatos.xyz/#/chat/1714355769440
+- 😀ChatGPT镜像：https://dev.yqcloud.top/
+- 😀ChatGPT镜像：https://chat.waixingyun.cn/#/home
+- 😀ChatGPT镜像：https://6qhpnt.aitianhu1.top/#/chat/1002
+- 😀ChatGPT镜像：https://chatforai.store/
+- 😀ChatGPT镜像：https://nx.chkzh.com/
+- 😀ChatGPT镜像：https://cpie0b.aitianhu1.top/#/chat/1002
 
 # 3.视频
 
