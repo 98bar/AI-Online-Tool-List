@@ -5,7 +5,7 @@
 # 1.AI对话
 
 
-- 😀Copilot（需要魔法，Edge浏览器打开）：https://www.bing.com/search?q=Bing+AI&showconv=1
+- 😀Copilot（需要魔法，Edge浏览器使用）：https://www.bing.com/search?q=Bing+AI&showconv=1
 - 😀ChatGPT（官网，需要魔法）：https://chat.openai.com/
 - 😀Google Gemini（需要魔法）：https://gemini.google.com/
 - 😀百度文心一言：https://yiyan.baidu.com/
