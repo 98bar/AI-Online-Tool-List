@@ -11,6 +11,7 @@
 - 😀百度文心一言：https://yiyan.baidu.com/
 - 😀百度文心一格：https://yige.baidu.com/
 - 😀讯飞星火认知大模型：https://xinghuo.xfyun.cn/
+- 😀豆包（字节跳动大模型）：https://www.doubao.com/chat/
 - 😀360智脑：https://ai.360.cn/
 - 😀腾讯混元：https://hunyuan.tencent.com/
 - 😀Forefront（体验GPT-4）：https://chat.forefront.ai/
